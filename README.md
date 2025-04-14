@@ -3,6 +3,10 @@
 <img align="right" alt="Coding" width="400" src="https://media.baamboozle.com/uploads/images/940763/1664796568_23548_gif-url.gif">
 
 - 🌱 I’m currently learning **Computer Science and Engineering**
+  
+- ❤️ Im passionate about Robotics and AI.
+
+- 🏆 My biggest achievement was to compete at [Factory@Light-FNR](www.festivalnacionalrobotica.pt/2025/) 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zinko0/Projects_Portfolio](https://github.com/Zinko0/Projects_Portfolio)
 
